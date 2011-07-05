@@ -2,3 +2,8 @@ alias tu='top -o cpu' # cpu
 alias tm='top -o vsize' # memory
 
 alias g="git status"
+
+alias nh="cd ~/dev/notifyhub/notifyhub"
+alias ih="cd ~/Documents/Bitwelder/Iora_Health/dev"
+
+alias be="bundle exec"
